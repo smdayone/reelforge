@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Generated content (large files — don't commit videos)
+products/*/outputs/
+products/*/inputs/
+products/*/references/
+
+# Logs (optional: comment out if you want to track history in git)
+# logs/
+
+# macOS
+.DS_Store
